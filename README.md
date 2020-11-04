@@ -8,7 +8,7 @@ Karma is a tool written in [python3](https://www.python.org) for the search of e
 ### Install
 ```
 sudo apt install tor python3 python3-pip
-git clone https://github.com/decoxviii/karma.git ; cd karma
+git clone https://github.com/douglasqsantos/karma.git ; cd karma
 sudo -H pip3 install -r requirements.txt
 python3 bin/karma.py --help
 ```
@@ -52,6 +52,6 @@ Usage this program for attacking targets without prior consent is illegal. It's 
 
 ---
 
-#### decoxviii
+#### Author: decoxviii
 
-**[MIT](https://github.com/decoxviii/karma/blob/master/LICENSE)**
+**[MIT](https://github.com/douglasqsantos/karma/blob/master/LICENSE)**
